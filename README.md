@@ -53,10 +53,12 @@ int main() {
         printf("Child PID: %d\n", pid);
         exit(0); // Parent exits
     }
+    return 0;
 }
 
-## OUTPUT
+## output
 
+![alt text](img1/2.png)
 
 ## C Program to print process ID and parent Process ID using Linux API system calls
 
@@ -85,9 +87,10 @@ int main() {
 
 
 
-##OUTPUT
+## OUTPUT
 
 
+![alt text](img1/1..png)
 
 
 
@@ -154,10 +157,11 @@ int main() {
 
 
 
-##OUTPUT
+## OUTPUT
 
 
 
+![alt text](img1/3.png)
 
 
 
